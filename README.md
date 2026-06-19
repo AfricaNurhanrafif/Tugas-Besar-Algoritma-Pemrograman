@@ -1,5 +1,6 @@
 # Tugas-Besar-Algoritma-Pemrograman
 APLIKASI MANAJEMEN TUGAS RUMAH TANGGA
+
 Aplikasi ini digunakan untuk membantu pengguna dalam mengelola tugas-tugas rumah tangga sehari-hari. Data utama yang digunakan adalah daftar tugas rumah tangga yang berisi nama tugas, kategori, status pengerjaan, dan tingkat prioritas. Pengguna aplikasi adalah individu atau keluarga yang ingin mengatur dan memantau pekerjaan rumah agar lebih terorganisir dan efisien.
 
 Dengan Spesifikasi Berikut:
